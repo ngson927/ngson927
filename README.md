@@ -27,7 +27,7 @@
 
 ### 🤝 Networking
 
-- 📌 Seeking **Fall 2025 internship** opportunities in full stack or data-focused roles
+- 📌 Seeking **Grad internship** opportunities in full stack or data-focused roles
 - 💬 Open to collaborations on practical tech projects and startups
 - 🧠 Always looking to grow through community learning and tech challenges
 
